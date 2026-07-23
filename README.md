@@ -1,7 +1,7 @@
 # M Rayhankhan Pathan
 
 **Data & backend engineering** — ETL/ELT pipelines, data modeling, and the systems around them.
-B.Tech CSE at IIIT-Delhi (2022–2027).
+B.Tech CSE at IIIT-Delhi (2022–2027). Currently building production data pipelines with Airflow, SQL, and Python.
 
 I build pipelines across all three data shapes: **structured** (50k+ row banking and marketing
 datasets), **semi-structured** (REST/JSON API ingestion), and **unstructured** (OCR, documents,
