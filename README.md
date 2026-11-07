@@ -2,11 +2,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Rayhankhan Pathan, AI Team Lead. Turning research into AI products people can use." src="assets/banner-light.svg" width="100%">
+    <img alt="Rayhankhan Pathan, AI Team Lead. I take AI products from idea to launch." src="assets/banner-light.svg" width="100%">
   </picture>
 </a>
 
-I'm an AI Team Lead at **r2c.ai**, a marketplace that takes research to market, working on requirements, roadmap and delivery with a 15-person team. I'm also in my final year of Computer Science at IIIT-Delhi.
+I'm an AI Team Lead at **r2c.ai**, a marketplace that connects research with industry, working on requirements, roadmap and delivery with a 15-person team. I'm also in my final year of Computer Science at IIIT-Delhi.
 
 **[Portfolio](https://rayhankhan-five.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/mrayhankhan)** &nbsp;·&nbsp; **[Email](mailto:rayhan22269@iiitd.ac.in)**
 
